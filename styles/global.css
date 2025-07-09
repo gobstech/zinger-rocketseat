@@ -101,6 +101,10 @@ img {
   display: inline-block;
 }
 
+.grid {
+  display: grid;
+}
+
 @media (width >= 80em) {
   :root {
     --fs-lg: 2rem;
